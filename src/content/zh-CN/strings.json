@@ -1,0 +1,141 @@
+{
+    "title": {
+        "1": "3P0",
+        "2": "DUM系列机器人",
+        "3": "2-1B外科机器人",
+        "4": "TRLM8620-G11N机器人",
+        "5": "Sphyrna护卫舰",
+        "6": "G2维修机器人",
+        "7": "CR90护卫舰",
+        "8": "74-Z高速摩托",
+        "9": "ETA-2拦截机",
+        "10": "R3系列机器人",
+        "11": "T-70 X翼战机",
+        "12": "Y翼战机",
+        "13": "超级战术机器人"
+    },
+    "desc": {
+        "1": "每个机器人都配备了SyntheTech AA-1 VerboBrain，使其能够存储海量信息。额外的内存空间通常用于将通信模块保存在活动内存中，从而避免在翻译过程中搜索语言信息时出现长时间延迟。TranLang III通信模块使它们能够流利地使用超过六百万种通信方式。它们还具备快速分析新的未注册语言并将其翻译成更常用语言的能力。",
+        "2": "维修机器人专为维护飞梭赛车而设计，价格实惠且经久耐用。维修机器人身高1.19米，但在不使用时可以折叠成紧凑的形态。只需轻触它们的鼻子即可切换此功能。",
+        "3": "2-1B机器人型号高度先进且智能，其程序由银河系顶尖医生在Rhinnal州立医学院进一步改进，并集成了启发式处理器。2-1B机器人最实用的特点是用户可以轻松更新其程序和附件。只需前往认证服务中心，2-1B机器人即可轻松成为神经外科、足病学、儿科、义肢置换和外星生物学方面的专家。",
+        "4": "TRLM8620-G11N是一台饱经战火的银河系战争机器人，身高1.79米。它稳定的瞄准能力，以及它的他能够利用环绕头部的先进传感器追踪目标，并能看到各个方向，这使他取得了巨大的成功。这些传感器包括多个文本扩展接收器、硬编码内容传感器和一个内容碎片检测器。TRLM8620-G11N的头部底部还有一个声码器，使他能够用银河系中的任何语言说出一些毫无意义的话。他的躯干可以在战场上完全旋转，使他能够解决各个方向的本地化错误。他坚固的金属身体使他能够在大多数国际化攻击中毫发无伤地幸存下来，并且具有防酸的i18n最佳实践功能。",
+        "5": "原版Sphyrna结构新增了几个功能，包括安装在飞船左舷和右舷的两个额外模块、取代货舱的六个逃生舱，以及安装在原有三个亚光速引擎上方的一个第四个亚光速引擎，使其拥有足够的动力独自移动一艘瘫痪的星际驱逐舰。飞船长315米，最大加速度为每小时900公里。配备超空间引擎系统。",
+        "6": "二级G2维修机器人旨在协助舰船维修，身材矮小，高0.8米。它体型矮胖，重心低，走路时摇摇晃晃。这些特征，加上它长长的多关节脖子和宽大的、用于分散重量的脚，使它获得了“鹅形机器人”的绰号。每个G2单元都拥有一个精简的银色和黄铜色骨架，裸露的关节和线路清晰可见，并带有彩色装饰。该机器人的三指重型机械臂可以抓取大多数维修工具，而外展的脚部有助于稳定其低重心，并在处理大型重型设备时为G2提供额外的稳定性。",
+        "7": "这艘飞船长150米，配备两座双联装和四座单装涡轮激光炮塔，最高速度可达950公里/小时。据卢克·天行者称，一些配备作战装备的CR90飞船可以安装六座双联装涡轮激光炮。它能够搭载整个外交护卫队，载客量达数百人。虽然这些飞船并非设计为航母，但可以将三架RZ-1 A翼拦截机连接到对接环上，从而组成一支小型护卫队。它们是早期反抗军和联盟的中坚力量。虽然火力并非特别强大，但CR90拥有足够的正面火力，可以轻松摧毁一艘戈赞蒂级巡洋舰。",
+        "8": "74-Z高速摩托车最高速度可达每小时五百公里以上，飞行高度上限为二十五米。74-Z是民用74-Y的军用型号。它通过位于车辆前部的车把进行控制，下方悬挂的脚踏板用于调节速度和高度。这种机动性极强的车辆在车把之间配备了传感器和通信设备，包括一个通信器和一个通信干扰器。这辆高速摩托车配备了地形跟踪传感器与驾驶员头盔中的抬头显示器相连。它们配备了一门前置旋转爆能加农炮用于作战。",
+        "9": "ETA-2长5.47米，是一款高度机动、以战斗为导向的星际战斗机，比其前身Aethersprite速度更快，双离子引擎提供5200G的最大加速度和1500公里/小时的最高速度。Eta-2的机翼带有上下散热板，即S形翼，用于散发引擎产生的多余热量。散热翼主要在激烈战斗中打开。为了防御，该飞船配备了两门激光炮和两门离子炮。与激光炮不同，飞船的离子炮发射等离子体脉冲，撞击目标后会造成暂时的电气干扰。",
+        "10": "R3系列宇航技工机器人与它的前身R2单元拥有许多相同的硬件，只是缺少了早期机器人可伸缩的视频传感器。R3的底盘呈圆柱形，看起来像一个直立的管子，底部有一个短的截锥体。机器人依靠两条细长的腿保持直立，每条腿的末端都有一个梯形棱柱状的履带式脚。第三条腿收纳在机器人体内，必要时可以伸出以提供更大的稳定性。机器人的顶部是一个坚固的旋转式塑料或透明钢圆顶。该宇航技工机器人经过密封，使其能够在太空真空中正常运行。",
+        "11": "-70 X翼星际战斗机是一款十字形星际战斗机，长12.48米，最多可容纳一名飞行员和一个底部装载的宇航技工机器人，该机器人安装在一个插槽中，可以根据不同的型号进行不同的配置。如有需要，机器人可以在没有飞行员的情况下驾驶星际战斗机，甚至可以进行远程操控。飞船的瞄准计算机、飞行控制和其他必要的驾驶仪器都位于一个装甲驾驶舱模块内，下方还有一个可拆卸的液冷飞行计算机，进一步辅助飞行员进行飞船操作。飞船“机头”内部设有用于计算机访问和存储的检修面板，以及一个辅助发电机和通常用于存放生存装备的存储区域。一个小型传感器窗口标志着飞船主传感器阵列的位置，位于机头最前端，紧急信标的后面。飞行员身后是一个内置的生命维持系统，可以为乘员提供富氧环境。",
+        "12": "Y翼星际战斗机被反抗军联盟和新共和国飞行员亲切地称为“叉骨”，它被用作战斗轰炸机，旨在突破敌方防线到达目标，投放高爆炸弹，然后再杀出重围。其武器包括两门激光炮、两门离子炮和两个质子鱼雷发射器。一个宇航技工机器人，例如R2系列机器人，可以插入驾驶舱后面的插槽中，充当副驾驶员并管理飞船的各种系统。",
+        "13": "一个非常适合协调攻击的机器人。不擅长战斗，只擅长谋划。"
+    },
+    "Navbar": {
+        "websiteTitle": "银河 L10n 补给品",
+        "searchPlaceholder": "你要买什么?",
+        "searchButtonLabel": "搜索产品",
+        "logoAlt": "银河 L10n 补给品",
+        "searchIconAlt": "搜索图标",
+        "greetingText": "你好 G11N 战士",
+        "historyLink": "订单历史记录",
+        "arrowAlt": "下拉箭头",
+        "cartAlt": "显示购物车",
+        "navLinkHome": "主页",
+        "navLinkDroids": "机器人",
+        "navLinkVehicles": "车辆",
+        "navLinkDemo": "国际化演示",
+        "cartStatus": "{count, plural, =0 {购物车为空} other {购物车内有 # 件商品}}"
+    },
+    "Home": {
+        "welcomeTitle": "欢迎来到 银河 L10n 补给品!",
+        "welcomeSubtitle": "我们提供应对银河系(G11n)挑战并赢得胜利所需的一切。",
+        "symbolAlt": "帝国信用币符号"
+    },
+    "Browse": {
+        "browseTitleAll": "所有的",
+        "browseTitleDroids": "机器人",
+        "browseTitleVehicles": "载具",
+        "browseDroids": "浏览机器人",
+        "browseVehicles": "浏览载具",
+        "resultCount": "{count, plural, =0 {没有匹配的商品} other {# 件商品}}"
+    },
+    "Checkout": {
+        "checkoutTitle": "结账",
+        "shipSectionLabel": "运输信息",
+        "firstNameLabel": "名",
+        "lastNameLabel": "姓",
+        "coordinatesLabel": "坐标",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "扇区",
+        "methodLabel": "运输方式",
+        "shipLightspeed": "光速",
+        "shipOvernight": "过夜",
+        "shipStandard": "标准",
+        "paySectionLabel": "支付",
+        "payNameLabel": "卡片姓名",
+        "payNameHolder": "名 姓",
+        "accountLabel": "信用号",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "安全码",
+        "securityHolder": "123456",
+        "expDateLabel": "截止日期",
+        "cartTitle": "购物车",
+        "deleteAlt": "从购物车中删除商品",
+        "totalLabel": "总金额: ",
+        "orderLabel": "确认下单",
+        "termsStatement": "我已阅读并同意条款和条件",
+        "termsLink": "(查看)",
+        "successMessage": "下单成功!",
+        "noItemMessage": "将商品加入购物车结算。",
+        "orderSummary": "{count, plural, other {# 件商品}}，合计 {total}",
+        "estimatedDelivery": "{method, select, lightspeed {今日送达，{date, date, full}} overnight {明日送达，{date, date, full}} standard {预计 {date, date, full} 送达} other {送达日期待确认}}"
+    },
+    "ProductShow": {
+        "qtyLabel": "数量: ",
+        "addToCartLabel": "添加到购物车",
+        "stockLevel": "{count, plural, =0 {已售罄} other {库存仅剩 # 件}}",
+        "ratingSummary": "{rating, number} 分（满分 5 分）— {count, plural, =0 {暂无评价} other {# 条评价}}",
+        "deliveryEstimate": "今日下单，预计 {date, date, long} 送达",
+        "addedConfirmation": "{count, plural, other {已将 # 件商品加入购物车}}"
+    },
+    "Cart": {
+        "cartTitle": "购物车",
+        "noItemMsg": "购物车中没有商品。",
+        "deleteAlt": "从购物车中删除商品",
+        "totalTitle": "总金额: ",
+        "checkoutLabel": "结账",
+        "closeAlt": "关闭购物车",
+        "itemCount": "{count, plural, =0 {购物车为空} other {# 件商品}}"
+    },
+    "Order": {
+        "statusProcessing": "处理中",
+        "statusShipped": "已发货",
+        "statusDelivered": "已送达"
+    },
+    "OrderHistory": {
+        "historyTitle": "订单历史记录",
+        "dateHeading": "日期",
+        "numberHeading": "订单号",
+        "totalHeading": "总金额",
+        "statusHeading": "状态",
+        "emptyHistory": "暂无订单。",
+        "historySummary": "过去 {months, plural, other {# 个月}}内共 {count, plural, other {# 笔订单}}",
+        "orderPlacedRelative": "下单时间：{when}",
+        "orderItems": "{count, plural, other {# 件商品}}",
+        "orderRank": "您的第 {position, selectordinal, other {#}} 笔订单",
+        "statusLine": "{status, select, processing {处理中} shipped {预计 {eta, date, long} 送达} delivered {已于 {eta, date, long} 送达} other {状态未知}}"
+    },
+    "Error404": {
+        "errorMessage": "404错误：页面未找到。"
+    },
+    "Bottombar": {
+        "menuAlt": "打开侧边栏菜单"
+    },
+    "LocaleSelector": {
+        "localeLabel": "语言: ",
+        "localeUS": "English (USA)",
+        "localeCN": "中文 (PRC)",
+        "localeDE": "German (GER)",
+        "localePseudo": "伪本地化 (en-XA)"
+    },
+    "Special": "特价"
+}
