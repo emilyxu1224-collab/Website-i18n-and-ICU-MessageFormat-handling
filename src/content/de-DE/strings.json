@@ -1,0 +1,158 @@
+{
+    "title": {
+        "1": "3P0",
+        "2": "DUM-Serien-Droide",
+        "3": "2-1B-Chirurgiedroide",
+        "4": "TRLM8620-G11N-Droide",
+        "5": "Sphyrna-Korvette",
+        "6": "G2-Reparaturdroide",
+        "7": "CR90-Korvette",
+        "8": "74-Z-Speeder-Bike",
+        "9": "ETA-2-Abfangjäger",
+        "10": "Droide der R3-Serie",
+        "11": "T-70-X-Flügler",
+        "12": "Y-Flügler",
+        "13": "Superkampfdroide"
+    },
+    "desc": {
+        "1": "Jeder Droide ist mit einem SyntheTech-AA-1-VerboBrain ausgestattet und kann enorme Informationsmengen speichern. Ein TranLang-III-Kommunikationsmodul ermöglicht die Verständigung in über sechs Millionen Kommunikationsformen.",
+        "2": "Gruben­droiden wurden für die Wartung von Podracern entwickelt. Sie sind preiswert und langlebig und können bei Nichtgebrauch zu einer kompakten Form zusammengeklappt werden.",
+        "3": "Das Modell 2-1B ist ein hochentwickelter und intelligenter Droide. Seine Programme und Anhänge lassen sich in einem zertifizierten Servicezentrum einfach aktualisieren.",
+        "4": "Der kampferprobte Kriegsdroide TRLM8620-G11N ist 1,79 Meter groß. Fortschrittliche Sensoren ermöglichen ihm, Ziele in alle Richtungen zu verfolgen, während sein drehbarer Torso Lokalisierungsfehler auf dem Schlachtfeld behebt.",
+        "5": "Die Sphyrna-Korvette besitzt zusätzliche Module, sechs Rettungskapseln und einen vierten Unterlichtantrieb. Sie ist 315 Meter lang und mit einem Hyperraumantrieb ausgestattet.",
+        "6": "Der kompakte G2-Reparaturdroide unterstützt Reparaturen an Bord. Seine breite Standfläche und die ausfahrbaren Arme geben ihm Stabilität bei der Arbeit mit schwerem Gerät.",
+        "7": "Die 150 Meter lange CR90-Korvette verfügt über Turbolaser und erreicht bis zu 950 km/h. Sie kann eine diplomatische Eskorte und mehrere Jäger transportieren.",
+        "8": "Das 74-Z-Speeder-Bike erreicht Geschwindigkeiten von über 500 km/h und eine Flughöhe von 25 Metern. Sensoren und ein Blaster machen es zu einem äußerst wendigen Fahrzeug.",
+        "9": "Der ETA-2 ist ein wendiger, kampforientierter Sternjäger mit zwei Ionenantrieben, zwei Laserkanonen und zwei Ionenkanonen.",
+        "10": "Der Astromechdroide der R3-Serie besitzt ein zylindrisches Chassis, zwei Beine und ein ausfahrbares drittes Bein. Er ist für den Einsatz im Vakuum des Weltraums abgedichtet.",
+        "11": "Der T-70-X-Flügler ist ein kreuzförmiger Sternjäger für einen Piloten und einen Astromechdroiden. Seine Flugsteuerung und Zielcomputer befinden sich in einem gepanzerten Cockpit.",
+        "12": "Der Y-Flügler wird als Jagdbomber eingesetzt. Seine Bewaffnung umfasst Laserkanonen, Ionenkanonen und Protonentorpedowerfer.",
+        "13": "Ein hervorragender Droide zur Koordination von Angriffen. Nicht gut im Kämpfen, aber stark in der Planung."
+    },
+    "Navbar": {
+        "websiteTitle": "Galaxy-L10n-Versorgung",
+        "searchPlaceholder": "Wonach suchen Sie?",
+        "searchButtonLabel": "Produkte suchen",
+        "logoAlt": "Galaxy-L10n-Versorgung",
+        "searchIconAlt": "Suchsymbol",
+        "greetingText": "Hallo, G11N-Krieger",
+        "historyLink": "BESTELLVERLAUF",
+        "arrowAlt": "Dropdown-Pfeil",
+        "cartAlt": "Warenkorb anzeigen",
+        "navLinkHome": "STARTSEITE",
+        "navLinkDroids": "DROIDEN",
+        "navLinkVehicles": "FAHRZEUGE",
+        "navLinkDemo": "I18N-DEMO",
+        "cartStatus": "{count, plural, =0 {Der Warenkorb ist leer} one {# Artikel im Warenkorb} other {# Artikel im Warenkorb}}"
+    },
+    "Home": {
+        "welcomeTitle": "Willkommen bei der Galaxy-L10n-Versorgung!",
+        "welcomeSubtitle": "Wir bieten alles, was Sie brauchen, um die Galaktisierungsherausforderung zu meistern.",
+        "symbolAlt": "Symbol für imperiale Credits"
+    },
+    "Browse": {
+        "browseTitleAll": "Alle",
+        "browseTitleDroids": " Droiden",
+        "browseTitleVehicles": " Fahrzeuge",
+        "browseDroids": "Droiden durchsuchen",
+        "browseVehicles": "Fahrzeuge durchsuchen",
+        "resultCount": "{count, plural, =0 {Keine passenden Produkte} one {# Produkt} other {# Produkte}}"
+    },
+    "Checkout": {
+        "checkoutTitle": "Kasse",
+        "shipSectionLabel": "Versandinformationen",
+        "firstNameLabel": "Vorname",
+        "lastNameLabel": "Nachname",
+        "coordinatesLabel": "Koordinaten",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "Sektor",
+        "methodLabel": "Versandart",
+        "shipLightspeed": "Lichtgeschwindigkeit",
+        "shipOvernight": "Über Nacht",
+        "shipStandard": "Standard",
+        "paySectionLabel": "Zahlung",
+        "payNameLabel": "Name auf der Karte",
+        "payNameHolder": "Vorname Nachname",
+        "accountLabel": "Kreditnummer",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "Sicherheitscode",
+        "securityHolder": "123456",
+        "expDateLabel": "Ablaufdatum",
+        "cartTitle": "Warenkorb",
+        "deleteAlt": "Artikel aus dem Warenkorb entfernen",
+        "totalLabel": "Gesamt: ",
+        "orderLabel": "BESTELLUNG AUFGEBEN",
+        "termsStatement": "Ich habe die Geschäftsbedingungen gelesen und stimme ihnen zu",
+        "termsLink": "(Anzeigen)",
+        "successMessage": "Bestellung erfolgreich aufgegeben!",
+        "noItemMessage": "Fügen Sie Artikel zum Warenkorb hinzu.",
+        "orderSummary": "{count, plural, one {# Artikel} other {# Artikel}}, Gesamt {total}",
+        "estimatedDelivery": "{method, select, lightspeed {Heute, {date, date, full}} overnight {Morgen, {date, date, full}} standard {Lieferung am {date, date, full}} other {Lieferdatum wird bestätigt}}"
+    },
+    "ProductShow": {
+        "qtyLabel": "Menge: ",
+        "addToCartLabel": "IN DEN WARENKORB",
+        "stockLevel": "{count, plural, =0 {Nicht auf Lager} one {Nur noch # auf Lager} other {# auf Lager}}",
+        "ratingSummary": "{rating, number} von 5 — {count, plural, =0 {noch keine Bewertungen} one {# Bewertung} other {# Bewertungen}}",
+        "deliveryEstimate": "Heute bestellt, Lieferung am {date, date, long}",
+        "addedConfirmation": "{count, plural, one {# Artikel wurde zum Warenkorb hinzugefügt} other {# Artikel wurden zum Warenkorb hinzugefügt}}"
+    },
+    "Cart": {
+        "cartTitle": "Warenkorb",
+        "noItemMsg": "Keine Artikel im Warenkorb.",
+        "deleteAlt": "Artikel aus dem Warenkorb löschen",
+        "totalTitle": "Gesamt: ",
+        "checkoutLabel": "KASSE",
+        "closeAlt": "Warenkorb schließen",
+        "itemCount": "{count, plural, =0 {Der Warenkorb ist leer} one {# Artikel} other {# Artikel}}"
+    },
+    "Order": {
+        "statusProcessing": "In Bearbeitung",
+        "statusShipped": "Versendet",
+        "statusDelivered": "Zugestellt"
+    },
+    "OrderHistory": {
+        "historyTitle": "Bestellverlauf",
+        "dateHeading": "Datum",
+        "numberHeading": "Bestellnummer",
+        "totalHeading": "Gesamt",
+        "statusHeading": "Status",
+        "emptyHistory": "Noch keine Bestellungen.",
+        "historySummary": "{count, plural, one {# Bestellung} other {# Bestellungen}} in den letzten {months, plural, one {Monat} other {# Monaten}}",
+        "orderPlacedRelative": "Aufgegeben {when}",
+        "orderItems": "{count, plural, one {# Artikel} other {# Artikel}}",
+        "orderRank": "Ihre {position, selectordinal, one {# Bestellung} other {# Bestellung}}",
+        "statusLine": "{status, select, processing {In Bearbeitung} shipped {Lieferung am {eta, date, long}} delivered {Zugestellt am {eta, date, long}} other {Status nicht verfügbar}}"
+    },
+    "Error404": {
+        "errorMessage": "404-Fehler: Seite nicht gefunden."
+    },
+    "Bottombar": {
+        "menuAlt": "Seitenleistenmenü öffnen"
+    },
+    "LocaleSelector": {
+        "localeLabel": "Sprache: ",
+        "localeUS": "Englisch (USA)",
+        "localeDE": "Deutsch (Deutschland)",
+        "localeCN": "Chinesisch (China)",
+        "localePseudo": "Pseudo-Lokalisierung (en-XA)"
+    },
+    "Special": "Sonderangebot",
+    "I18nDemo": {
+        "demoTitle": "String-Internationalisierung und Unicode-MessageFormat",
+        "demoIntro": "Jeder Satz auf dieser Seite ist als einzelne Nachricht mit eigenen Regeln gespeichert. Wechseln Sie die Sprache oder bewegen Sie den Regler.",
+        "patternHeading": "Nachricht in der Ressourcendatei",
+        "outputHeading": "Anzeige für Benutzer",
+        "countLabel": "Zahl ausprobieren",
+        "pluralTitle": "Benötigte Pluralformen je Sprache",
+        "pluralIntro": "Diese Kategorien stammen aus Unicode CLDR. Chinesisch benötigt eine Form, Deutsch zwei.",
+        "localeHeading": "Sprache",
+        "categoriesHeading": "Kardinale Pluralformen",
+        "ordinalHeading": "Ordinalformen",
+        "formatTitle": "Zahlen, Geld, Datumsangaben und Listen",
+        "formatIntro": "Der Browser verwendet die Konventionen der jeweiligen Sprache für Gruppierung, Währung, Datumsreihenfolge und Zeichensetzung.",
+        "qaTitle": "Lokalisierungs-QA",
+        "qaIntro": "Die Pseudo-Sprache en-XA verlängert Zeichenketten und versieht Buchstaben mit Akzenten.",
+        "qaMissing": "{count, plural, =0 {Alle Zeichenketten dieser Sprache sind übersetzt} one {# Zeichenkette fällt noch auf Englisch zurück} other {# Zeichenketten fallen noch auf Englisch zurück}}"
+    }
+}
